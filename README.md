@@ -5,7 +5,8 @@
 
 * 크롤링 및 시각화 by konlpy(한글 자연어 처리 라이브러리) <br>
 1. 나무위키 변경 내역 크롤링 <br>
-![image](https://github.com/timotomate/crawling/assets/75873954/a7074286-181f-4fa0-b625-0887301563e5)
+![image](https://github.com/timotomate/crawling/assets/75873954/81c4f549-9034-41a9-aefa-0429aeb41158)
+
 
 <br>
 2. 국민청원 데이터 크롤링 및 WordCloud 형태 시각화<br>
